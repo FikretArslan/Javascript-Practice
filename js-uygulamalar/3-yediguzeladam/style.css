@@ -1,0 +1,33 @@
+body {
+  background-color: #d7bebc;
+}
+.container {
+  text-align: center;
+  border: 3px solid black;
+  margin: 3rem 18rem;
+  background-color: rgb(161, 192, 133);
+}
+#resim {
+  width: 30%;
+  height: 40%;
+  border-radius: 10%;
+}
+
+.button-container button {
+  padding: 1rem;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: #acacd4;
+  margin-bottom: 2%;
+}
+
+.bilgiler p {
+  font-size: 1.3rem;
+}
+h1 {
+  font-size: 3rem;
+  color: purple;
+}
+h2 {
+  color: #312a59;
+}

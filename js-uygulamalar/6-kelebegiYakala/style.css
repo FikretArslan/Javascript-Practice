@@ -1,0 +1,36 @@
+body {
+  background-color: coral;
+}
+.container {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-around;
+}
+.container h2 {
+  font-size: 2rem;
+  color: crimson;
+}
+.panel {
+  background-color: bisque;
+  height: 50vh;
+  border-radius: 15px;
+  text-align: center;
+}
+.kareler {
+  background-color: cadetblue;
+  width: 606px;
+  height: 606px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.kare {
+  height: 200px;
+  width: 200px;
+  border: solid black 1px;
+}
+
+.resim {
+  background-image: url("btrfly.jpg");
+  background-size: cover;
+}
